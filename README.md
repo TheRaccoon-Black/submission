@@ -1,6 +1,6 @@
 # Proyek Analisis Data Publik E-Commerce dengan Python
 
-[Link dashboard](https://e-commerce-data-analyst.streamlit.app/)
+[Link dashboard](https://submissiondicodingdata.streamlit.app/)
 
 ## Daftar Isi
 - [Gambaran](#gambaran)
@@ -21,7 +21,7 @@ Proyek ini adalah sebuah proyek analisis data dan visualisasi yang berfokus pada
 1. Clone repositori ini ke Local Machine Anda: -->
 
 
-## Penggunaan
+## Kegunaan
 1. **Data Wrangling**: Skrip pengolahan data tersedia dalam file `notebook.ipynb` untuk menyiapkan dan membersihkan data.
 
 2. **Exploratory Data Analysis (EDA)**: Jelajahi dan analisis data menggunakan skrip Python yang disediakan. Wawasan EDA dapat membimbing pemahaman Anda tentang pola data e-commerce public.
@@ -31,5 +31,6 @@ Proyek ini adalah sebuah proyek analisis data dan visualisasi yang berfokus pada
 cd submission/dashboard
 streamlit run dashboard.py
 ```
-
+## Link github
+[Link](https://github.com/TheRaccoon-Black/submission)
 
