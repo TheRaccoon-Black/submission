@@ -1,6 +1,6 @@
 # Proyek Analisis Data Publik E-Commerce dengan Python
 
-[Link dashboard](https://submissiondicodingdata.streamlit.app/)
+[Link dashboard](https://submissionrevisi.streamlit.app/)
 
 ## Daftar Isi
 - [Gambaran](#gambaran)
